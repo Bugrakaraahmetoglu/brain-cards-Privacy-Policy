@@ -1,122 +1,135 @@
-# brain-cards-Privacy-Policy
+# Brain Cards – Privacy & Child Safety Policy
 
-Privacy Policy for Brain Cards
+## Privacy Policy
 
-Effective Date: September 29, 2025
+**Effective Date:** September 29, 2025  
 
-Company Name: BKStudio
-Contact Information: bugrakaraahmetoglubusiness@gmail.com
+**Company Name:** BKStudio  
+**Contact Information:** bugrakaraahmetoglubusiness@gmail.com  
 
-Information We Collect
+---
 
-Brain Cards does not collect any personal or non-personal information from users.
+### Overview
 
-Specifically:
+Brain Cards is an offline brain-training game designed with user privacy as a top priority.  
+The app can be used immediately without registration or internet access.
 
-No email address is required
+---
 
-No account or login system is used
+### Information We Collect
 
-No passwords are created or stored
+Brain Cards **does not collect any personal or non-personal data**.
 
-No IP address tracking is performed
+Specifically, the app:
+- Does not require account creation
+- Does not request email addresses or passwords
+- Does not collect IP addresses
+- Does not track user behavior
+- Does not use analytics, ads, or third-party SDKs
 
-No analytics or tracking technologies are used
+---
 
-Users can access and play the app immediately without providing any information.
+### How the App Works
 
-How the App Works
+- The app runs entirely offline
+- No data is sent to external servers
+- Gameplay occurs locally on the user’s device
 
-The App functions entirely offline.
-All gameplay occurs locally on the user’s device and does not involve communication with external servers.
+---
 
-Data Usage
+### Data Usage and Sharing
 
-Since no data is collected, Brain Cards does not:
+Since no data is collected:
+- No data is processed
+- No data is stored
+- No data is shared with third parties
+- No advertising or tracking is performed
 
-Process user data
+---
 
-Store user data
+### Data Security
 
-Share data with third parties
+Because Brain Cards does not collect or store any user data, there is no risk of data leakage or unauthorized access through the app.
 
-Use data for advertising or analytics purposes
+---
 
-Data Sharing
+### User Rights
 
-BKStudio does not sell, rent, or share any user data with third parties, as no data is collected in the first place.
+As no personal information is collected, there is no data to access, modify, or delete.  
+If you have any questions, you may contact us via email.
 
-Data Security
+---
 
-Because Brain Cards does not collect or store data, there is no risk of unauthorized access to personal information through the App.
+### Policy Updates
 
-User Rights
+This Privacy Policy may be updated periodically.  
+Any changes will be reflected here with an updated effective date.
 
-As no personal data is collected, there is no personal information to access, modify, or delete.
-If you have questions or concerns, you may contact us using the email address below.
+---
 
-Changes to This Privacy Policy
+### Contact
 
-This Privacy Policy may be updated occasionally.
-Any changes will be published on this page with an updated effective date.
+For privacy-related questions:
 
-Contact Us
+📧 **bugrakaraahmetoglubusiness@gmail.com**
 
-If you have any questions about this Privacy Policy, please contact us at:
+---
 
-Email: bugrakaraahmetoglubusiness@gmail.com
+## Child Safety Policy
 
-Child Safety Policy for Brain Cards
+**Effective Date:** September 29, 2025  
 
-Effective Date: September 29, 2025
+**Company Name:** BKStudio  
+**Contact Information:** bugrakaraahmetoglubusiness@gmail.com  
 
-Company Name: BKStudio
-Contact Information: bugrakaraahmetoglubusiness@gmail.com
+---
 
-Commitment to Child Safety
+### Commitment to Child Safety
 
-BKStudio is committed to providing a safe and appropriate experience for all users, including children. Brain Cards is designed to be a simple, offline game that does not expose users to online risks.
+BKStudio is committed to providing a safe and secure environment for all users, including children. Brain Cards is designed as a simple, offline game with no online interaction.
 
-Scope of This Policy
+---
+
+### Scope
 
 This policy applies to all users of the Brain Cards application, including users under the age of 18.
 
-Content Safety
+---
+
+### Content and Interaction Safety
 
 Brain Cards:
+- Contains no user-generated content
+- Does not include chat, messaging, or social features
+- Does not show advertisements
+- Does not link to external websites
 
-Does not include user-generated content
+This ensures children are not exposed to harmful or inappropriate content.
 
-Does not include chat, messaging, or social interaction
+---
 
-Does not display advertisements
+### Data Collection from Children
 
-Does not link to external websites
+Brain Cards does **not collect personal information from children**, including those under the age of 13.
 
-As a result, children are not exposed to harmful or inappropriate content within the App.
+The app complies with:
+- Children’s Online Privacy Protection Act (COPPA)
+- General Data Protection Regulation (GDPR)
 
-Data Collection from Children
+---
 
-Brain Cards does not collect any personal information from children, including those under the age of 13.
+### Reporting Concerns
 
-The App fully complies with:
+Parents or guardians may contact us directly for any concerns regarding child safety:
 
-Children’s Online Privacy Protection Act (COPPA)
+📧 **bugrakaraahmetoglubusiness@gmail.com**
 
-General Data Protection Regulation (GDPR)
+---
 
-Reporting Concerns
+### Review and Compliance
 
-If a parent or guardian has any concerns regarding child safety or app usage, they may contact us directly at:
+This policy is reviewed periodically to ensure continued compliance with applicable child safety and data protection regulations.
 
-Email: bugrakaraahmetoglubusiness@gmail.com
+---
 
-Compliance and Review
-
-BKStudio follows recognized child safety and digital protection principles and reviews this policy periodically to ensure continued compliance with applicable laws and standards.
-
-Contact Us
-
-For questions related to child safety, please contact:
-
-Email: bugrakaraahmetoglubusiness@gmail.com
+© BKStudio
